@@ -12,7 +12,7 @@ From the data, this is the distribution of the ages of which the students. It is
 
 ### Student origin state
 
-From the data, this is the distribution of the states of which the students resides in. Most of the students live in Kuala Lumpur, while the least are from Negeri Sembilan, Terengganu, snd Sarawak respectively.
+From the data, this is the distribution of the states of which the students resides in. Most of the students live in Kuala Lumpur, while the least are from Negeri Sembilan, Terengganu, and Sarawak respectively.
 
 ![](./output/student-state.png)
 
