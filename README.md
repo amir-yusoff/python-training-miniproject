@@ -1,0 +1,1 @@
+## Mini project for Certified Python Professional by IR Academy (1/3/2022 - 7-3/2022)
