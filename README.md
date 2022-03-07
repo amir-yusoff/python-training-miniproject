@@ -72,3 +72,5 @@ print(sum_of_cols)
 Since the data obtained is fairly small, we could see that Students best perform in Arts and performs worst in Science
 
 ![](./output/marks-sum-graph.png)
+
+
