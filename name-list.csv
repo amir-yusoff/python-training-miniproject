@@ -1,0 +1,31 @@
+Std_ID,Std_Name,Std_DOB,Std_Age,Std_Street,Std_State,Std_Country,Std_Postcode,Std_Phone,Std_Email
+101 ,Preeta a/l Merican,1979-03-31,43,No. 36 Jln Yong Shook Lin Seksyen 52,Selangor,Malaysia,46200 ,0125551111,preeta@gmail.com
+102 ,Siauw Koong Cheng,1980-06-01,42,13A Jln Pudu Ulu,Kuala Lumpur,Malaysia,56100 ,0125551112,siauw@gmail.com
+103 ,Muhammad Haji Syed Aidi,1980-10-19,41,1 6 Jln Pjs 11/8 Taman Bandar Sunway,Selangor,Malaysia,46150 ,0125551113,muhammad@gmail.com
+104 ,Veloo Munusamy,1980-11-23,41,32B Jalan Pekaka 8/3 Kota Damansara,Selangor,Malaysia,47810 ,0125551114,veloo@gmail.com
+105 ,Philip Nguei Ong Khoi,1981-06-10,41,No. 8 Jalan 4/91A Taman Shamelin Perkasa Batu ,Kuala Lumpur,Malaysia,56100 ,0125551115,philip@gmail.com
+106 ,Noor Zulaikha Rosnan binti Syawal,1981-07-06,41,9-1 Jalan 13/142 Taman Orkid Desa,Kuala Lumpur,Malaysia,56000 ,0125551116,noor@gmail.com
+107 ,Muhammed Wan Muazzam Zulkernain,1982-06-01,40,18 Jln Lapangan Terbang Lama,Kuala Lumpur,Malaysia,50460 ,0125551117,muhammed@gmail.com
+108 ,Selva Muniandy,1984-08-14,38,"Jalan 20/7, Paramount Garden",Selangor,Malaysia,46300 ,0125551118,selva@gmail.com
+109 ,Daniel Seah Zeng Shing,1985-03-06,37,"Perdana Business Centre, Bandar Damansara Perdana",Petaling Jaya,Malaysia,47820 ,0125551119,daniel@gmail.com
+110 ,Viatilingam Vadiveloo,1986-12-02,35,"No 142-146, Jalan Tuanku Abdul Rahman",Kuala Lumpur,Malaysia,50100 ,0125551120,viatilingam@gmail.com
+111 ,Rafidah Yacob binti Nik Tayib,1987-07-30,35,"57, JALAN WANGSA JAYA TAMAN WANGSA JAYA",Kuala Lumpur,Malaysia,53300 ,0125551121,rafidah@gmail.com
+112 ,Preeta a/l Kasinather,1989-02-20,33,Lot 117 New Commercial Centre Batu Niah,Sarawak,Malaysia,98200 ,0125551122,preeta2@gmail.com
+113 ,Leow Say Shee,1989-07-11,33,10-2 Jln Perubatan 3 Taman Pandan Indah,Kuala Lumpur,Malaysia,55100 ,0125551123,leow@gmail.com
+114 ,Lim Ceh Khoo,1991-05-01,31,2 9B Jln Sarikei,Kuala Lumpur,Malaysia,53000 ,0125551124,lim@gmail.com
+115 ,Siow Feng Shei,1995-02-17,27,25B Jln Pjs 10/32 Taman Sri Subang,Selangor,Malaysia,46000 ,0125551125,siow@gmail.com
+116 ,Er Sham Lau,1995-04-02,27,No 89 Jalan Belibis 5 Taman Perling,Johor,Malaysia,81200 ,0125551126,er@gmail.com
+117 ,Hjh Azua binti Norazmi,1996-05-17,26,"Jalan SS23/11, Taman Sea,",Selangor,Malaysia,47400 ,0125551127,hjh1@gmail.com
+118 ,Hjh Nurfaizah Nazry,1996-05-23,26,Gpo Box 50736,Kuala Lumpur,Malaysia,11140 ,0125551128,hjh2@gmail.com
+119 ,Sanjay a/l Rajeswary,1996-12-10,25,Level 9 Menara Chan 138 Jalan Ampang,Kuala Lumpur,Malaysia,50450 ,0125551129,sanjay@gmail.com
+120 ,Thong Khaw Lui,1996-12-11,25,1 Jln Temenggong Kangkar Tebrau,Johor,Malaysia,81100 ,0125551130,thong@gmail.com
+121 ,Nurul Emylia Lukman binti Firdaus,1997-02-04,25,7 Wisma Central Jln Ampang,Kuala Lumpur,Malaysia,50450 ,0125551131,nurul@gmail.com
+122 ,Samad Lourdenadin,1998-03-21,24,"gleneagles intan medical centre 282, jalan ampang,",Kuala Lumpur,Malaysia,50450 ,0125551132,samad@gmail.com
+123 ,Teng Chai Pooi,1998-07-12,24,29 Jln 10/32 Taman Jinjang Baru,Kuala Lumpur,Malaysia,52000 ,0125551133,teng@gmail.com
+124 ,Syahidatul Rohman binti Suhiman,1998-11-12,23,"No. 1, Huo Ping Road",Kuala Lumpur,Malaysia,96008 ,0125551134,syahidatul@gmail.com
+125 ,Chan Ong Tew,1999-06-14,23,1 36E Jln Petani Kuala,Terengganu,Malaysia,20000 ,0125551135,chan@gmail.com
+126 ,Renuga a/l Govindasamy,1996-11-02,25,31-2 Jalan 45A/26 Taman Rampai Setapak,Kuala Lumpur,Malaysia,53300 ,0125551136,renuga@gmail.com
+127 ,Lai Tung Shou,1996-12-16,25,1 Blok F Diamond Square Jln 4/50,Kuala Lumpur,Malaysia,53000 ,0125551137,lai@gmail.com
+128 ,Yeong Chia Shi,1997-03-04,25,No. 2742 Jln Changkat Permata Taman Permata Hulu,Selangor,Malaysia,53300 ,0125551138,yeong@gmail.com
+129 ,Kula L. Ramesh,1997-04-03,25,13 Jln Dato Sheikh Ahmad,Negeri Sembilan,Malaysia,70000 ,0125551139,kula@gmail.com
+130 ,Shum Ngah Yup,1998-10-02,23,"alan Permas 10, Bandar Baru Permas Jaya",Johor,Malaysia,81750 ,0125551140,shum@gmail.com
