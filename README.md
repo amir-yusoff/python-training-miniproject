@@ -4,6 +4,20 @@ The data generated is randomised and might have some discrepencies.
 
 ## Findings
 
+- [Mini project for Certified Python Professional by IR Academy (1/3/2022 - 7-3/2022)](#mini-project-for-certified-python-professional-by-ir-academy-132022---7-32022)
+  - [Findings](#findings)
+    - [Student age distribution](#student-age-distribution)
+    - [Student origin state](#student-origin-state)
+    - [Student results](#student-results)
+    - [Student marks](#student-marks)
+    - [Overall best student](#overall-best-student)
+    - [Best and worst scoring subjects](#best-and-worst-scoring-subjects)
+      - [Graph of Sum of Marks](#graph-of-sum-of-marks)
+      - [Graph of Mean of Marks](#graph-of-mean-of-marks)
+
+</br>
+</br>
+
 ### Student age distribution
 
 From the data, this is the distribution of the ages of which the students. It is found that the youngest students are of age 23, while the oldest is of age 43. Students of age 25 compromises of the most number.
