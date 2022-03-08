@@ -105,3 +105,7 @@ SET Result = (
         ELSE 'FAIL' 
     END
 )
+
+SELECT * 
+FROM Student_Personal
+LEFT JOIN Student_Marks ON Student_Personal.Std_ID = Student_Marks.Std_ID
