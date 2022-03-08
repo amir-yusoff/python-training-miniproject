@@ -71,6 +71,21 @@ print(sum_of_cols)
 
 Since the data obtained is fairly small, we could see that Students best perform in Arts and performs worst in Science
 
+
+#### Graph of Sum of Marks
+![](./output/marks-sum-graph.png)
+
+#### Graph of Mean of Marks
+
+```python
+mean_of_cols = df_marks_only.mean(axis=0)
+
+formatted_output = mean_of_cols.apply(lambda x: '{:.2f}'.format(x))
+print(formatted_output)
+```
+
+![](./output/student-marks-mean.png)
+
 ![](./output/marks-sum-graph.png)
 
 
