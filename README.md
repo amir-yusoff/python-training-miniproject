@@ -86,6 +86,6 @@ print(formatted_output)
 
 ![](./output/student-marks-mean.png)
 
-![](./output/marks-mean-graph.png)
+![](./output/marks-mean-graph2.png)
 
 
