@@ -31,7 +31,7 @@ The data generated is randomised and might have some discrepencies.
 
 - I used batch import of data into the SQL server from a csv file. It could be done in python using the `data/csv-to-mssql.ipynb` file (might have some errors atm), or using an SQL query provided in `db-query.sql`.
 - Analytics is all done in `analytics.ipynb` and generated graphs are saved in `/data` folder.
-- Prototyping is done in `student-management-system.ipynb` and then consolidated into 'main.py'
+- Prototyping is done in `student-management-system.ipynb` and then consolidated into `main.py`
 - To run the program, you could open a Terminal or PowerShell (hold control and right click on this folder, then click run PowerShell here) window in your directory. Run `python main.py` to execute the program.
   
 
