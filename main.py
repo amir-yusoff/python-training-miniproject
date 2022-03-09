@@ -1,17 +1,5 @@
 import pyodbc
 
-# function to connect to database
-def sql_connection():
-    conn = pyodbc.connect(
-        "Driver={SQL Server};"
-        "Server=AMIR-PC\SQLEXPRESS;"
-        "Database=training_project;"
-        "Trusted_Connection=yes;"
-    )
-    cursor = conn.cursor()
-    print("Connected to SQL Server")
-
-
 # function for option 1 | add student info
 def addStudent():
     id = input("Enter Student ID: ")
@@ -285,7 +273,14 @@ def print_menu():
 
 # main program
 
-sql_connection()
+conn = pyodbc.connect(
+    "Driver={SQL Server};"
+    "Server=AMIR-PC\SQLEXPRESS;"
+    "Database=training_project;"
+    "Trusted_Connection=yes;"
+)
+cursor = conn.cursor()
+print("Connected to SQL Server")
 
 while True:
     print_menu()
