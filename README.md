@@ -2,9 +2,8 @@
 
 The data generated is randomised and might have some discrepencies.
 
-## Findings
-
 - [Mini project for Certified Python Professional by IR Academy (1/3/2022 - 7-3/2022)](#mini-project-for-certified-python-professional-by-ir-academy-132022---7-32022)
+  - [How to use](#how-to-use)
   - [Findings](#findings)
     - [Student age distribution](#student-age-distribution)
     - [Student origin state](#student-origin-state)
@@ -17,6 +16,25 @@ The data generated is randomised and might have some discrepencies.
 
 </br>
 </br>
+
+## How to use
+
+- You could clone the repository or download it as a zip file.
+- To run in your own computer, make sure to change the file paths to your appropriate folders. For example, to connect to your own sql.server, change the values in the `{YOUR-SQL-SERVER-HERE}` line in files `main.py` or `student-management-system.ipynb`.
+  
+  ```python
+  conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server={YOUR-SQL-SERVER-HERE};'
+                      'Database=training_project;'
+                      'Trusted_Connection=yes;')
+  ```
+
+- I used batch import of data into the SQL server from a csv file. It could be done in python using the `data/csv-to-mssql.ipynb` file (might have some errors atm), or using an SQL query provided in `db-query.sql`.
+- Analytics is all done in `analytics.ipynb` and generated graphs are saved in `/data` folder.
+- To run the program, you could open a Terminal or PowerShell (hold control and right click on this folder, then click run PowerShell here) window in your directory. Run `python main.py` to execute the program.
+  
+
+## Findings
 
 ### Student age distribution
 
